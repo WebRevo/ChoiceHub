@@ -63,7 +63,9 @@ $ npm start
 ```
 ### For Support: 
 sarathi2021ai@gmail.com
+
 Or
 
 Join our Slack Channel:
+
 https://join.slack.com/t/team-revoshared_invitezt-23bhnca2e-VEbQiDF8c~1hUYVjsNa06Q
