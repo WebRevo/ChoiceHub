@@ -1,5 +1,5 @@
-# Voting-App
-NodeJS backend for voting app + React on front
+# ChoiceHub 
+ChoiceHub is a dynamic voting application built using JavaScript. This app allows users to create and participate in polls seamlessly. With an intuitive interface, ChoiceHub simplifies the process of casting votes and viewing real-time results. The app is designed to handle multiple polls simultaneously, ensuring a smooth user experience. Whether for casual surveys or formal decision-making, VoteVault provides a robust and user-friendly platform for collective voting.
 
 ## Main Technologies
 
@@ -61,3 +61,8 @@ $ cd client
 $ npm start
 
 ```
+### For Support: 
+sarathi2021ai@gmail.com
+Or
+Join our Slack Channel:
+https://join.slack.com/t/team-revoshared_invitezt-23bhnca2e-VEbQiDF8c~1hUYVjsNa06Q
